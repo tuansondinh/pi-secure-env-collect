@@ -1,5 +1,6 @@
 # pi-secure-env-collect
-
+Extension from the GSD-2 cli.
+https://github.com/gsd-build/gsd-2
 Adds `secure_env_collect` tool to Pi.
 
 Collects secrets through masked interactive UI, then writes them to:
