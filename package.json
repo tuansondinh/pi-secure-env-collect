@@ -1,6 +1,6 @@
 {
   "name": "pi-secure-env-collect",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Secure env var collection tool for Pi with masked input and destination writers",
   "keywords": [
     "pi",
